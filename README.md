@@ -1,2 +1,18 @@
-# My-First-Data-Analysis-Repo
-Data Analysis Projects
+# Project Name: Data Analysis Projects
+
+....
+# Project Objectives: Problem Statement
+
+
+....
+# Data Sourcing
+
+
+....
+
+
+# Data Cleaning
+
+....
+
+# Findings and Recommendations
